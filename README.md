@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Krishna Vamsi</h1>
 <h3 align="center">A passionate developer who keeps exploring latest tech</h3><br></br>
-- 🌱 I’m currently learning **Full Stack Web development, Machine-Learning, A.I., Data Science, Google Cloud**
+- 🌱 I’m currently learning Full Stack Web development, Machine-Learning, A.I., Data Science, Google Cloud
 
 - 📫 How to reach me??<br></br> **krishnavamsivv58@gmail.com**
 

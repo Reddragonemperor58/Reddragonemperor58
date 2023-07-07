@@ -5,7 +5,7 @@
 
 - 📫 How to reach me??<br></br> **krishnavamsivv58@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1wrdH_FRsWVZc2GJEBT1B9ffKLWiJuzmI/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Am9orL0_zGq4zRMHCRFrJsf3Emkyqdzb/view?usp=drive_link)
 
 
 
